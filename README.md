@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Deborahlimaa">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DeborahLimaa&show_icons=false&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahLimaa&&layout=compact&hide=shell&theme=jolly"/>
+  <img height="300em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DeborahLimaa&show_icons=false&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="450em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahLimaa&&layout=compact&hide=shell&theme=jolly"/>
 
    <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
