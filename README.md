@@ -1,6 +1,6 @@
 ### Olá, eu sou a Deborah Lima👋 
 
-- 🐍 Estudando Python
+- 🐍 Desenvolvedora Python
 - 💻 Programação e Tecnologia 
 - ❤
 
