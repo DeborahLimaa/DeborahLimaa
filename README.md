@@ -1,9 +1,5 @@
 ### Olá, eu sou a Deborah Lima👋 
 
-- 🐍 Desenvolvedora Python
-- 💻 Programação e Tecnologia 
-- ❤
-
 <div>
   <a href="https://github.com/Deborahlimaa">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeborahLimaa&show_icons=false&theme=onedark&include_all_commits=true&count_private=true"/>
