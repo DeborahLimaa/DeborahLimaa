@@ -5,7 +5,7 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeborahLimaa&show_icons=false&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deborahlimaa&layout=compact&langs_count=7&theme=cobalt"/> 
       <img align="right" alt="Rafa-pic" height="125" style="border-radius:50px;"
-       src="https://share-cdn.picrew.me/shareImg/org/202110/338224_WZT0N2pn.png">
+       src="https://share-cdn.picrew.me/shareImg/org/202203/338224_4hYN1w62.png">
     
 </div>
  <br>
