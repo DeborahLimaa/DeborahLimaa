@@ -4,7 +4,6 @@
   <a href="https://github.com/Deborahlimaa">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeborahLimaa&show_icons=false&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deborahlimaa&layout=compact&langs_count=7&theme=outrun"/> 
-      <img align="right" alt="Rafa-pic" height="125" style="border-radius:50px;"
 src =  "https://picrew.me/shareImg/org/202206/338224_AOUGWbWm.png"
 </div>
     
