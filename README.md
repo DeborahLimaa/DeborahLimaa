@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Deborahlimaa">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeborahLimaa&show_icons=false&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deborahlimaa&layout=compact&langs_count=7&theme=maroongold"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeborahLimaa&show_icons=false&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deborahlimaa&layout=compact&langs_count=7&theme=bear"/>
   
 </div>
     
